@@ -10,7 +10,7 @@
     "build": "ng build",
     "build:ssr": "ng run SchoolManagmentSystem:server:dev",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test --watch=false --browsers=ChromeHeadlessCustom"
+    "test": "ng test"
   },
   "private": true,
   "dependencies": {
