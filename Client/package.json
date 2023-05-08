@@ -31,6 +31,7 @@
     "@ngx-formly/material": "^6.1.1",
     "@ngx-translate/core": "^14.0.0",
     "@ngx-translate/http-loader": "^7.0.0",
+    "angular-in-memory-web-api": "^0.15.0",
     "karma-angular": "^0.0.6",
     "moment": "^2.29.4",
     "ng-matero": "^15.2.3",
